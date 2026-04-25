@@ -103,3 +103,7 @@ friends: [
     #     href: "https://developer.apple.com/"
     # }
 ]
+
+#插件
+plugins:
+  - jekyll-paginate
